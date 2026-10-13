@@ -1,10 +1,3 @@
-.Lyrics2{
-    font-size: .9rem;
-    font-weight: 700;
-    letter-spacing: 0.25rem;
-    text-transform: uppercase;
-}
-
 .Lyrics1{
     font-family: "Times New Roman" , Times, serif;
     color: #26658d; 
@@ -12,5 +5,38 @@
     font-weight: 900;
     line-height: .9rem;
      letter-spacing: 0.20rem;
+     text-transform: lowercase;
 }
 
+.Lyrics2{
+    font-size: .9rem;
+    font-weight: 700;
+    letter-spacing: 0.25rem;
+    text-transform: uppercase;
+}
+
+
+.Lyrics3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #77fead; 
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: .5rem;
+    letter-spacing: 0.20rem;
+    text-transform: uppercase;
+}
+
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16px;
+  color: #000;
+  background: #cbcaca;
+}
+
+
+header{
+    font-family:'Times New Roman', Times, serif;
+     letter-spacing: 0.20rem;
+     line-height: .5rem;
+
+}
