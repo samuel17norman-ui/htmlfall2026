@@ -1,0 +1,16 @@
+.Lyrics2{
+    font-size: .9rem;
+    font-weight: 700;
+    letter-spacing: 0.25rem;
+    text-transform: uppercase;
+}
+
+.Lyrics1{
+    font-family: "Times New Roman" , Times, serif;
+    color: #26658d; 
+    font-size: .7rem;
+    font-weight: 900;
+    line-height: .9rem;
+     letter-spacing: 0.20rem;
+}
+
