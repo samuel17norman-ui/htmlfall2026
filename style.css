@@ -1,0 +1,29 @@
+body{
+    background-color: #000;
+    color:#ffff;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+/* code for the movie poster*/
+.poster {
+   background-image: url(../img/TitansPoster.png);
+   background-size: cover;
+   background-position: center;
+   background-color: #000;
+   width: 600px;
+   height: 800px;
+   margin: auto;
+   text-align: center;
+   position: relative;
+
+}
+
+header {
+    font-family: 'Cinzel', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    color: #ffff;
+    margin: 0;
+    padding-top: 30px;;
+}
