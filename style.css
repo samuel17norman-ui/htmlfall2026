@@ -17,6 +17,16 @@ header {
 div{
     font-family: 'Cinzel', sans-serif;
 }
+/* this is so that the website is in the right spot*/
+nav{
+    margin-top: 10px;
+}
+nav a {
+    font-family: 'Oswald', sans-serif;
+    font-size: 10px;
+    color: #fff;
+    margin: 10px;
+}
 
 /* code for the movie poster*/
 .Poster {
@@ -47,19 +57,21 @@ div{
     color: #fff;
     font-size: 25px;
 }
-
+/* this is for info to be in the right spot*/
 .Info{
     position: absolute;
     bottom: 80px;
     width:100%;
     text-align: center;
 }
+/*the Disney Name*/
 .Disney{
     font-family: 'Pacifico', cursive;
     font-size: 20px;
     color: #c76718;
     margin-bottom: 10px;
 }
+/* this is the code for the title*/
 .Title h1{
     font-family: 'Cinzel', sans-serif;
     font-size: 45px;
@@ -69,4 +81,12 @@ div{
     margin: 10px;
 }
 
+/* this is for the credits to be in the right spot and have the right font*/
+.Credits{
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: #c76718;
+    margin: 10px;
+}
 
+/*I tried to use margin-top and margin-bottom instead of bottom and top but bottom and top were the only to get it to actually be in the poster.*/
